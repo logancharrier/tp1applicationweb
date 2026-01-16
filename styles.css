@@ -1,3 +1,45 @@
 h1 {
     text-align: center;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+.p1 {
+    color: blue;
+    font-size: 18px;
+}
+
+.p2 {
+    color: green;
+    font-size: 16px;
+}
+
+.span1 {
+    font-weight: bold;
+}
+
+.span2 {
+    font-style: italic;
+}
+
+input {
+    margin: 10px 0;
+}
+
+.button1 {
+    background-color: lightgray;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px black;
+}
+
+.button1:hover {
+    background-color: gray;
+    color: white;
+    box-shadow: none;
+}
